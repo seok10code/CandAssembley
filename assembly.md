@@ -12,8 +12,20 @@
 
 ex) mov eax, 1
 assign 1 to eax
+ mov reg, number
+ mov reg, reg
 
-2. d
+operand : eax, 1
+operator : mov
+
+연산은 cpu에서 일어남
+register 공간 : 속도가 가장 빠른 공간, 용량이 작음
+레지스터에 연산을 저장하고 연산을 함(+,-/*)
+프로그램 연산내용은 ram에 저장됨(4,2,5,6,7)
+
+범용레지스터
+
+
 
 
 
